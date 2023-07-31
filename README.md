@@ -3,7 +3,8 @@ As the new data engineer at Pewlett Hackard (a fictional company), my first majo
 
 For this project, I will design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, I will perform data modelling, data engineering, and data analysis, respectively.
 
-##Data Analysis
+## Data Analysis
+
 The analysis will include the below tasks:
 Data Analysis
 List the employee number, last name, first name, sex, and salary of each employee.
