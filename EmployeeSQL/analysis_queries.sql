@@ -62,7 +62,7 @@ AND last_name LIKE 'B%';
 SELECT 
     e.emp_no,
     e.last_name,
-    e.first_name,
+    e.first_name
 FROM 
     department_employee AS de
 INNER JOIN
