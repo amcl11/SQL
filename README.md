@@ -8,7 +8,8 @@ For this project, I will design the tables to hold the data from the CSV files, 
 
 ## Data Analysis
 
- - The analysis will include the below tasks:
+The analysis will include the below tasks:
+
  - List the employee number, last name, first name, sex, and salary of each employee.
  - List the first name, last name, and hire date for the employees who were hired in 1986.
  - List the manager of each department along with their department number, department name, employee number, last name, and first name.
